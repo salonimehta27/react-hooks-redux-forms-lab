@@ -1,4 +1,5 @@
 import React from "react";
+import BandInput from "./features/bands/BandInput";
 import BandsContainer from "./features/bands/BandsContainer";
 
 function App() {
